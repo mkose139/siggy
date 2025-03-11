@@ -5,3 +5,4 @@ edition = "2021"
 description = "Terminal-based Signal messenger client with vim keybindings"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# keep defaults in sync with the manifest
